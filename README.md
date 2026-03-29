@@ -80,7 +80,7 @@ A main script automates the evaluation:
 
 ## Academic Context & Author
 
-These optimization models were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
+These numerical analysis scripts were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
 
 * **Author:** Agapi Kallinikou
 * **Academic Year:** 2022 - 2023
