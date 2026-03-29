@@ -78,7 +78,9 @@ A main script automates the evaluation:
 
 ---
 
-## Author
-**Agapi Kallinikou**  
-Undergraduate student in Mathematics with interest in Machine Learning and Optimization.  
-GitHub: [github.com/AgapiKallinikou](https://github.com/AgapiKallinikou)  
+## Academic Context & Author
+
+These optimization models were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
+
+* **Author:** Agapi Kallinikou
+* **Academic Year:** 2022 - 2023
